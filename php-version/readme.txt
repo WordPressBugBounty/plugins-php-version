@@ -1,10 +1,9 @@
 ﻿=== PHP Version ===
 Contributors: mazedulislam27
-Tags: admin, server, support, PHP version, version,  dashboard, widget, displays, show, showing, PHP
+Tags: admin, server, PHP version, version,  dashboard, widget, 
 Requires at least: 4.0
-Tested up to: 6.7.1
+Tested up to: 6.8.1
 Requires PHP: 5.6.0
-Stable tag: 1.0.0
 License: GPLv3
 License URI: https://www.gnu.org/licenses/gpl-3.0.html
 
@@ -36,6 +35,12 @@ How to install the PHP Version Plugin?
 5. screenshot-2.png
 
 == Changelog ==
+= 1.0.6  - 24 May, 2025 =
+
+Compatible with Latest WordPress Version
+Main File's version updated
+
+
 = 1.0.5  - 18 December, 2024 =
 
 Compatible with Latest WordPress Version
