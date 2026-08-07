@@ -2,7 +2,7 @@
 Contributors: mazedulislam27
 Tags: admin, server, PHP version, version,  dashboard, widget, 
 Requires at least: 4.0
-Tested up to: 7.0.0
+Tested up to: 7.0.2
 Requires PHP: 5.6.0
 License: GPLv3
 License URI: https://www.gnu.org/licenses/gpl-3.0.html
