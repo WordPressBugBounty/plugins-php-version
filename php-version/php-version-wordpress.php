@@ -2,7 +2,7 @@
 /*
 Plugin Name: PHP Version
 Description: You can able to see the current PHP version in WordPress admin dashboard widget.
-Version: 1.0.8
+Version: 1.0.9
 Author: Mazedul Islam
 Author URI: https://www.mazedit.com/mazedulislam
 Tags: php version, PHP Version, mazedulislam27
